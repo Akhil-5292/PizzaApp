@@ -4,7 +4,7 @@ export default function Navbar() {
 
     return (
         <div>
-            <nav className="navbar navbar-expand-lg bg-body-tertiary shadow-lg p-3 mb-5 bg-white rounded">
+            <nav className="navbar navbar-expand-lg bg-body-tertiary shadow-lg p-3 w-100 bg-white rounded">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">Pizza🍕</a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

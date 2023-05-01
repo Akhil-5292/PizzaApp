@@ -11,3 +11,15 @@ h1{
     display: flex;
 
 }
+
+.btn{
+    background-color: red !important;
+    color: white !important;
+    border: none;
+    outline: none;
+}
+
+select{
+    box-shadow: none;
+    border-color: black !important;
+}
